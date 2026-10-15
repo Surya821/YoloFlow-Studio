@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+opencv-python>=4.9
+ultralytics>=8.4.0
+kaggle>=2.0
+PyYAML>=6.0
+numpy
+
